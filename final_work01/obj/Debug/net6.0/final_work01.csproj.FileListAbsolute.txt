@@ -1,0 +1,15 @@
+D:\Final_work\final_work01\bin\Debug\net6.0\final_work01.exe
+D:\Final_work\final_work01\bin\Debug\net6.0\final_work01.deps.json
+D:\Final_work\final_work01\bin\Debug\net6.0\final_work01.runtimeconfig.json
+D:\Final_work\final_work01\bin\Debug\net6.0\final_work01.dll
+D:\Final_work\final_work01\bin\Debug\net6.0\final_work01.pdb
+D:\Final_work\final_work01\obj\Debug\net6.0\final_work01.csproj.AssemblyReference.cache
+D:\Final_work\final_work01\obj\Debug\net6.0\final_work01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final_work\final_work01\obj\Debug\net6.0\final_work01.AssemblyInfoInputs.cache
+D:\Final_work\final_work01\obj\Debug\net6.0\final_work01.AssemblyInfo.cs
+D:\Final_work\final_work01\obj\Debug\net6.0\final_work01.csproj.CoreCompileInputs.cache
+D:\Final_work\final_work01\obj\Debug\net6.0\final_work01.dll
+D:\Final_work\final_work01\obj\Debug\net6.0\refint\final_work01.dll
+D:\Final_work\final_work01\obj\Debug\net6.0\final_work01.pdb
+D:\Final_work\final_work01\obj\Debug\net6.0\final_work01.genruntimeconfig.cache
+D:\Final_work\final_work01\obj\Debug\net6.0\ref\final_work01.dll
